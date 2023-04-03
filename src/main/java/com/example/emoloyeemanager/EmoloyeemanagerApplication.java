@@ -10,6 +10,4 @@ public class EmoloyeemanagerApplication {
 		SpringApplication.run(EmoloyeemanagerApplication.class, args);
 	}
 
-
-	//for my first commit
 }
